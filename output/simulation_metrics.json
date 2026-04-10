@@ -1,0 +1,25 @@
+{
+  "mode": "simulation",
+  "train_samples": 150,
+  "eval_samples": 50,
+  "final_train_loss": 0.9459,
+  "simulated_accuracy": 0.58,
+  "metrics": [
+    {
+      "step": 5,
+      "train_loss": 1.9241
+    },
+    {
+      "step": 10,
+      "train_loss": 1.5189
+    },
+    {
+      "step": 15,
+      "train_loss": 1.1909
+    },
+    {
+      "step": 20,
+      "train_loss": 0.9459
+    }
+  ]
+}

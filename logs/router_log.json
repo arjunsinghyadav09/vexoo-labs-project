@@ -1,0 +1,56 @@
+[
+  {
+    "query": "If Alice has 45 apples and gives 17 to Bob, how many does she have left?",
+    "detected": "math",
+    "module_used": "math",
+    "confidence": 0.7
+  },
+  {
+    "query": "Calculate 128 * 7 + 256 / 4",
+    "detected": "math",
+    "module_used": "math",
+    "confidence": 0.92
+  },
+  {
+    "query": "A store sells 120 items per day at $8 each. What is the weekly revenue?",
+    "detected": "math",
+    "module_used": "math",
+    "confidence": 0.7
+  },
+  {
+    "query": "What are the GDPR compliance requirements for storing user data in the EU?",
+    "detected": "legal",
+    "module_used": "legal",
+    "confidence": 0.6
+  },
+  {
+    "query": "Is my employer allowed to terminate my contract without severance pay?",
+    "detected": "legal",
+    "module_used": "legal",
+    "confidence": 0.6
+  },
+  {
+    "query": "How do I fix a KeyError in Python when accessing a dictionary?",
+    "detected": "code",
+    "module_used": "code",
+    "confidence": 0.8
+  },
+  {
+    "query": "Write a SQL query to join users and orders on user_id",
+    "detected": "code",
+    "module_used": "code",
+    "confidence": 0.8
+  },
+  {
+    "query": "How does photosynthesis convert sunlight into glucose?",
+    "detected": "science",
+    "module_used": "science",
+    "confidence": 0.75
+  },
+  {
+    "query": "Who wrote Romeo and Juliet?",
+    "detected": "general",
+    "module_used": "general",
+    "confidence": 0.5
+  }
+]

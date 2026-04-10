@@ -1,0 +1,94 @@
+[
+  {
+    "chunk_id": "79475df8",
+    "raw_text": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.\n\nIBM has a rich history with machine learning. One of its own, Arthur Samuel, is credited for coining the term, \"machine learning\" with his research around the game of checkers. Robert Nealey, the self-proclaimed checkers master, played the game on an IBM 7094 computer in 1962, and he lost to the computer. Compared to what can be done today, this feat seems trivial, but it's considered a major milestone in the field of artificial intelligence.\n\nOver the last couple of decades, the technological advances in storage and processing power have enabled some innovative products based on machine learning, such as Netflix's recommendation engine and self-driving cars.\n\nMachine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. As big data continues to expand and grow, the market demand for data scientists will increase. They will be required to help identify the most relevant business questions and the data to answer them.\n\nSupervised learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms that to classify data or predict",
+    "summary": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. IBM has a rich history with machine learning. One of its own, Arthur Samuel, is credited for coining the term, \"machine learning\" with his research around the game of checkers.",
+    "category": "Machine Learning / AI",
+    "keywords": [
+      "learning",
+      "data",
+      "machine",
+      "computer",
+      "use",
+      "algorithms",
+      "as",
+      "artificial",
+      "intelligence",
+      "science",
+      "ibm",
+      "game",
+      "checkers",
+      "self",
+      "field"
+    ]
+  },
+  {
+    "chunk_id": "dedf3169",
+    "raw_text": "ed learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately. As input data is fed into the model, it adjusts its weights until the model has been fitted appropriately, which occurs as part of the cross validation process. Supervised learning helps organizations solve for a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox.\n\nUnsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. Its ability to discover similarities and differences in information make it the ideal solution for exploratory data analysis, cross-selling strategies, customer segmentation, and image recognition.\n\nSemi-supervised learning offers a happy medium between supervised and unsupervised learning. During training, it uses a smaller labeled data set to guide classification and feature extraction from a larger, unlabeled data set. Semi-supervised learning can solve the problem of having not enough labeled data (or not being able to afford to label enough data) to train a supervised learning algorithm.\n\nReinforcement learning is a machine learning training method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial",
+    "summary": "ed learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately. As input data is fed into the model, it adjusts its weights until the model has been fitted appropriately, which occurs as part of the cross validation process. Supervised learning helps organizations solve for a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox.",
+    "category": "Machine Learning / AI",
+    "keywords": [
+      "learning",
+      "data",
+      "supervised",
+      "as",
+      "machine",
+      "labeled",
+      "algorithms",
+      "unsupervised",
+      "also",
+      "known",
+      "datasets",
+      "train",
+      "model",
+      "cross",
+      "solve"
+    ]
+  },
+  {
+    "chunk_id": "167689dc",
+    "raw_text": "ing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error. Reinforcement learning is used in training robots to perform tasks, like walking around a room, and video game playing.\n\nNeural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.\n\nNatural language processing (NLP) is a type of machine learning that processes text. NLP applies machine learning algorithms to natural language processing tasks like sentiment analysis, text generation, and translation. BERT and GPT are popular NLP-specific pretrained models.\n\nTransformers and the models trained on them have been called the most disruptive innovation in AI in the past 10 years. Because they can be used for a wide variety of NLP tasks and produce state of the art results, they have become extremely popular.\n\nThe training process for a transformer model involves feeding it large amounts of data. The model learns to predict the next word in a sequence by looking at all the words that came before it. This prediction task is known as language modeling. The data used in training can be anything from books to websites and requires a large amount of compute power.\n\nFine-tuning is the process of taking a pretrained model and training it on a specific dataset. This is useful for",
+    "summary": "ing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error. Reinforcement learning is used in training robots to perform tasks, like walking around a room, and video game playing.",
+    "category": "Machine Learning / AI",
+    "keywords": [
+      "learning",
+      "training",
+      "nlp",
+      "used",
+      "tasks",
+      "neural",
+      "networks",
+      "machine",
+      "language",
+      "model",
+      "reinforcement",
+      "like",
+      "known",
+      "as",
+      "algorithms"
+    ]
+  },
+  {
+    "chunk_id": "9d872ef5",
+    "raw_text": "es a large amount of compute power.\n\nFine-tuning is the process of taking a pretrained model and training it on a specific dataset. This is useful for adapting a general model to a specific task or domain. LoRA (Low-Rank Adaptation) is a popular technique for efficient fine-tuning where the model's original weights are frozen and only small adapter matrices are trained.\n\nGradient descent is an optimization algorithm used to train machine learning models by minimizing the loss function. In each iteration, the model computes the gradient of the loss with respect to its parameters and updates them in the direction that reduces the loss. Variants include stochastic gradient descent (SGD), mini-batch gradient descent, Adam, and AdaGrad.",
+    "summary": "es a large amount of compute power. Fine-tuning is the process of taking a pretrained model and training it on a specific dataset. This is useful for adapting a general model to a specific task or domain.",
+    "category": "Machine Learning / AI",
+    "keywords": [
+      "model",
+      "gradient",
+      "descent",
+      "loss",
+      "fine",
+      "tuning",
+      "specific",
+      "es",
+      "large",
+      "amount",
+      "compute",
+      "power",
+      "process",
+      "taking",
+      "pretrained"
+    ]
+  }
+]
