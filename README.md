@@ -1,6 +1,6 @@
 # Vexoo Labs AI Engineer Assignment
 
-**Candidate:** [Your Name]
+**Candidate:** Arjun Singh Yadav
 **Date:** April 2026
 
 ---
